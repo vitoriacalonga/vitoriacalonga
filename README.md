@@ -12,11 +12,8 @@ Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensã
 - **Pesquisa Científica:** Autora de artigos publicados no CSBC e ERI-MT, com foco em análise de **Redes Complexas** (redes de amizade) e a presença de mulheres na Tecnologia da Informação.
 - **Dados & IA:** Formação complementar em clusters de **Big Data** e coordenadora do projeto **Tamandu(IA)** no Museu de História Natural do Araguaia (MUHNA), trabalhando com LLMs e engenharia de prompt.
 - **Sistemas de Baixo Nível:** Desenvolvimento de compiladores (C para x86-64 Assembly) e construção de sistemas de arquivos (Very Simple File System) em C.
-- **Algoritmos:** Implementação de algoritmos de busca em grafos e otimização de rotas (A* e UCS).
-
-#### 🛠️ Tecnologias
-- **Linguagens:** C, C++, Python, Java, Kotlin, Assembly, JavaScript.
-- **Ferramentas & SO:** Linux (Ubuntu), Git, ecossistema de Big Data.
+- **Algoritmos e Grafos:** Aplicação de Teoria dos Grafos na modelagem de redes complexas (como no estudo de disseminação/redes de contato da COVID-19) e implementação de algoritmos de otimização de rotas (A* e UCS com heurística de Haversine).
+---
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -33,15 +30,6 @@ Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensã
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
----
-
-### 📊 Meus Status no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacalonga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacalonga&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
