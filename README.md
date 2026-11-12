@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+  <h2>Olá 👋! Eu sou a Vitória Calonga</h2>
+  <img src="https://komarev.com/ghpvc/?username=vitoriacalonga&color=blue" alt="Profile Views" />
+</div>
 
-<!--
-**vitoriacalonga/vitoriacalonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Sou estudante do 6º semestre de **Ciência da Computação** na UFMT (Campus do Araguaia) e Técnica em Informática pelo IFMT. 
 
-Here are some ideas to get you started:
+Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensão e meu trabalho como desenvolvedora. Tenho interesse nas áreas de inteligência artificial, análise de dados e sistemas de baixo nível.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Projetos & Pesquisa
+- **Pesquisa Científica:** Autora de artigos publicados no CSBC e ERI-MT, com foco em análise de **Redes Complexas** (redes de amizade) e a presença de mulheres na Tecnologia da Informação.
+- **Dados & IA:** Formação complementar em clusters de **Big Data** e coordenadora do projeto **Tamandu(IA)** no Museu de História Natural do Araguaia (MUHNA), trabalhando com LLMs e engenharia de prompt.
+- **Sistemas de Baixo Nível:** Desenvolvimento de compiladores (C para x86-64 Assembly) e construção de sistemas de arquivos (Very Simple File System) em C.
+- **Algoritmos:** Implementação de algoritmos de busca em grafos e otimização de rotas (A* e UCS).
+
+#### 🛠️ Tecnologias
+- **Linguagens:** C, C++, Python, Java, Kotlin, Assembly, JavaScript.
+- **Ferramentas & SO:** Linux (Ubuntu), Git, ecossistema de Big Data.
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Meus Status no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriacalonga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriacalonga&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+---
+
+### 📬 Como me encontrar
+
+<div align="center">
+  <a href="mailto:vitoriacalongadossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/vitoriacalonga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
