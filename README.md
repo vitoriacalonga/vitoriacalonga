@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá 👋! Eu sou a Vitória Calonga</h2>
+  <h2>Oioii! Eu sou a Vitória Calonga</h2>
   <img src="https://komarev.com/ghpvc/?username=vitoriacalonga&color=blue" alt="Profile Views" />
 </div>
 
