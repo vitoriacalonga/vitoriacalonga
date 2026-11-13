@@ -1,21 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Ol%C3%A1!+Sou+a+Vit%C3%B3ria+Calonga+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%8A%B9;%E2%8A%B9+Desenvolvedora.exe+loading...+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
 #
-Me chamo **_Vitória Calonga_** sou estudante de Ciência da Computação na UFMT . Divido meu tempo entre a universidade, projetos pessoais, pesquisa acadêmica e projetos de extensão. Tenho interesse nas áreas de inteligência artificial e análise de dados.
+🎓 Estudante de Ciência da Computação @UFMT e Técnica em Informática @IFMT\
+💡 Apaixonada por Redes Complexas, Cibersegurança, IA, Análise de Dados e Pesquisa Científica\
+🚀 Experiência com pesquisa acadêmica, desenvolvimento de sistemas, desenvolvimento mobile, engenharia de prompts e LLMs\
+🤝 Aberta para colaborações e projetos
 #
-
-#### 💻 Projetos & Pesquisa
-- **Dados & IA:** Formação complementar em clusters de **Big Data** e coordenadora do projeto **Tamandu(IA)** no Museu de História Natural do Araguaia (MUHNA), trabalhando com LLMs e engenharia de prompt.
-- **Sistemas de Baixo Nível:** Desenvolvimento de compiladores (C para x86-64 Assembly) e construção de sistemas de arquivos (Very Simple File System) em C.
-- **Algoritmos e Grafos:** Aplicação de Teoria dos Grafos na modelagem de redes complexas (como no estudo de disseminação/redes de contato da COVID-19) e implementação de algoritmos de otimização de rotas (A* e UCS com heurística de Haversine).
----
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,aws,cs,kotlin,js,html,css,mysql)](https://skillicons.dev)
-
----
+#
 <h3 align="left">GitHub Stats</h3>
 
 <div align="center">
