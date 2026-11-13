@@ -1,12 +1,12 @@
 <div align="center">
-  <h2>Oioii! Eu sou a Vitória Calonga</h2>
-  <img src="https://komarev.com/ghpvc/?username=vitoriacalonga&color=blue" alt="Profile Views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
----
-Sou estudante do 6º semestre de **Ciência da Computação** na UFMT (Campus do Araguaia) e Técnica em Informática pelo IFMT. 
-
-Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensão e meu trabalho como desenvolvedora. Tenho interesse nas áreas de inteligência artificial, análise de dados e sistemas de baixo nível.
+#
+Me chamo **_Vitória Calonga_**, tenho 21 anos e moro em Barra do Garças - MT. Sou estudante do 6º semestre de Ciência da Computação na UFMT e sou Técnica em Informática pelo IFMT. Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensão e meu trabalho como desenvolvedora. Tenho interesse nas áreas de inteligência artificial, análise de dados e sistemas de baixo nível.
+#
 
 #### 💻 Projetos & Pesquisa
 - **Pesquisa Científica:** Autora de artigos publicados no CSBC e ERI-MT, com foco em análise de **Redes Complexas** (redes de amizade) e a presença de mulheres na Tecnologia da Informação.
@@ -14,6 +14,26 @@ Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensã
 - **Sistemas de Baixo Nível:** Desenvolvimento de compiladores (C para x86-64 Assembly) e construção de sistemas de arquivos (Very Simple File System) em C.
 - **Algoritmos e Grafos:** Aplicação de Teoria dos Grafos na modelagem de redes complexas (como no estudo de disseminação/redes de contato da COVID-19) e implementação de algoritmos de otimização de rotas (A* e UCS com heurística de Haversine).
 ---
+<h3 align="left">GitHub Stats</h3>
+
+---
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="300" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-27sj.vercel.app/api?username=vitoriacalonga&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&custom_title=My%20GitHub%20Statistics&theme=dracula"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="300" 
+      src="https://github-readme-stats-27sj.vercel.app/api/top-langs/?username=vitoriacalonga&layout=compact&custom_title=Stack&langs_count=8&theme=dracula" 
+  />
+
+---
+
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -34,14 +54,11 @@ Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensã
 
 ---
 
-### 📬 Como me encontrar
-
+<h3 align="left">Connect with me!</h3>
 <div align="center">
   <a href="mailto:vitoriacalongadossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/vitoriacalonga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
-
-### 🐍 Minhas Contribuições
 
 <div align="center">
   <picture>
