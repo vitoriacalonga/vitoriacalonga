@@ -4,15 +4,14 @@
   </a>
 </div>
 
-#
-
-<img width="600" height="600" alt="gwen2" src="https://github.com/user-attachments/assets/8b3c917b-7167-499e-8c55-52d59446219b" />
-
+# 
+<img align="right" alt="" height="190px" src="./src/gwen2.gif">
 
 🎓 Estudante de Ciência da Computação @UFMT e Técnica em Informática @IFMT\
 💡 Apaixonada por Redes Complexas, Cibersegurança, IA, Análise de Dados e Pesquisa Científica\
 🚀 Experiência com pesquisa acadêmica, desenvolvimento de sistemas, desenvolvimento mobile, engenharia de prompts e LLMs\
 🤝 Aberta para colaborações e projetos
+
 #
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,aws,cs,kotlin,js,html,css,mysql)](https://skillicons.dev)
 #
