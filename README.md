@@ -20,15 +20,15 @@ Me chamo **_Vitória Calonga_**, tenho 21 anos e moro em Barra do Garças - MT. 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="300" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-27sj.vercel.app/api?username=vitoriacalonga&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&custom_title=My%20GitHub%20Statistics&theme=dracula"
   />
 
 <img 
-      align="left" 
+      align="rigth" 
       alt="GitHub Stats" 
-      height="300" 
+      height="200" 
       src="https://github-readme-stats-27sj.vercel.app/api/top-langs/?username=vitoriacalonga&layout=compact&custom_title=Stack&langs_count=8&theme=dracula" 
   />
 
