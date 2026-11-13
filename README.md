@@ -5,57 +5,38 @@
 </div>
 
 #
-Me chamo **_Vitória Calonga_**, tenho 21 anos e moro em Barra do Garças - MT. Sou estudante do 6º semestre de Ciência da Computação na UFMT e sou Técnica em Informática pelo IFMT. Divido meu tempo entre a universidade, pesquisa acadêmica, projetos de extensão e meu trabalho como desenvolvedora. Tenho interesse nas áreas de inteligência artificial, análise de dados e sistemas de baixo nível.
+Me chamo **_Vitória Calonga_** sou estudante de Ciência da Computação na UFMT . Divido meu tempo entre a universidade, projetos pessoais, pesquisa acadêmica e projetos de extensão. Tenho interesse nas áreas de inteligência artificial e análise de dados.
 #
 
 #### 💻 Projetos & Pesquisa
-- **Pesquisa Científica:** Autora de artigos publicados no CSBC e ERI-MT, com foco em análise de **Redes Complexas** (redes de amizade) e a presença de mulheres na Tecnologia da Informação.
 - **Dados & IA:** Formação complementar em clusters de **Big Data** e coordenadora do projeto **Tamandu(IA)** no Museu de História Natural do Araguaia (MUHNA), trabalhando com LLMs e engenharia de prompt.
 - **Sistemas de Baixo Nível:** Desenvolvimento de compiladores (C para x86-64 Assembly) e construção de sistemas de arquivos (Very Simple File System) em C.
 - **Algoritmos e Grafos:** Aplicação de Teoria dos Grafos na modelagem de redes complexas (como no estudo de disseminação/redes de contato da COVID-19) e implementação de algoritmos de otimização de rotas (A* e UCS com heurística de Haversine).
 ---
-<h3 align="left">GitHub Stats</h3>
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,aws,cs,kotlin,js,html,css,mysql)](https://skillicons.dev)
 
 ---
+<h3 align="left">GitHub Stats</h3>
+
+<div align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-27sj.vercel.app/api?username=vitoriacalonga&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&custom_title=My%20GitHub%20Statistics&theme=dracula"
   />
-
-<img 
-      align="rigth" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-27sj.vercel.app/api/top-langs/?username=vitoriacalonga&layout=compact&custom_title=Stack&langs_count=8&theme=dracula" 
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats-27sj.vercel.app/api/top-langs/?username=vitoriacalonga&layout=compact&custom_title=Stack&langs_count=8&theme=dracula" 
   />
-
----
-
-
-### 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
 <h3 align="left">Connect with me!</h3>
-<div align="center">
+<div align="left">
+   <a href="https://www.instagram.com/vitoriacalonga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:vitoriacalongadossantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/vitoriacalonga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
