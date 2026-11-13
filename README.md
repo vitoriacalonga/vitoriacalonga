@@ -12,11 +12,13 @@
 🚀 Experiência com pesquisa acadêmica, desenvolvimento de sistemas, desenvolvimento mobile, engenharia de prompts e LLMs\
 🤝 Aberta para colaborações e projetos
 
-
+</br>
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,aws,cs,kotlin,js,html,css,mysql)](https://skillicons.dev)
+</br>
 #
-<h3 align="left">GitHub Stats</h3>
 
+<h3 align="left">GitHub Stats</h3>
+</br>
 <div align="center">
   <img 
     alt="GitHub Stats" 
